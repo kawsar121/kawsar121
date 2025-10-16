@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tohidul Islam Kawsar Bhuiyan</h1>
-<h3 align="center">A passionate mern stack developer from Bangladesh</h3>
+<h3 align="center">A Passionate Mern Stack Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar121&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar121" /> </p>
 
